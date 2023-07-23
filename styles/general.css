@@ -1,0 +1,9 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    height: 200px;
+}
+
+p{
+    font-family: Helvetica, Arial, sans-serif;
+}

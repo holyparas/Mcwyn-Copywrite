@@ -6,6 +6,7 @@
 
 p{
     font-family: Helvetica, Arial, sans-serif;
+    color: white;
 }
 
 .container{
@@ -28,13 +29,14 @@ p{
 .title{
     font-size: 2rem;
     font-weight: bold;
+    color: pink;
 }
 
 body {
-    background-image: url('../Pictures/background.jpg');
+    background-image: url('../Pictures/Background-Header.png');
     /* Other background properties (optional) */
-    background-size: cover; /* To make the image cover the entire background */
-    background-repeat: no-repeat; /* To prevent the image from repeating */
+    background-size: cover; To make the image cover the entire background
+    background-repeat: repeat; /* To prevent the image from repeating */
 }
 
   
